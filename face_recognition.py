@@ -15,7 +15,7 @@ font = cv2.FONT_HERSHEY_SIMPLEX
 
 id = 0
 
-names = ['unknown', 'Nikhilesh', 'Shailendra']
+names = ['unknown']
 start = time.time()
 # Initialize and start realtime video capture
 capture = cv2.VideoCapture(0)
